@@ -5,7 +5,7 @@
     "Textures": [
       "textures/texture_00.png"
     ],
-    "Physics": "shengluyisi_3.physics3.json",
+    "Physics": "motions/idle.motion3.json",
     "Motions": {
       "": [
         {
